@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-This is Venu Gopal , I am a recent graduate from University of South Florida.
+This is Venu Gopal , I am a graduate from University of South Florida.
 
+Prior to that I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer.
 
 <!--
 **vguddati/vguddati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
