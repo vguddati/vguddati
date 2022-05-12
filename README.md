@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is Venu Gopal , I am a recent graduate from University of South Florida.
+
+
 <!--
 **vguddati/vguddati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
