@@ -2,7 +2,12 @@
 
 This is Venu Gopal , I am a graduate from University of South Florida.
 
-Prior to that I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer.
+I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer. As a Data Analyst I used to query and manipulate the large scale data sources using SQL and Power BI .Query and manipulate data from multiple large-scale data sources using SQL and other data science tools, and summarize the findings of your analysis, providing actionable recommendations
+Continually learn about Gap Inc.’s data, analytical models, systems and capabilities to continually improve your impact, influence, and data storytelling skills
+Provide assistance needed to implement strategic recommendations considering brand priorities and objectives
+Partner with Inventory Management/Finance/Strategy teams at Gap brand and the central Data Science team to set up and measure recommended actions
+Identify opportunities for improvement with the Inventory Management scope of operations.
+Develop and oversee product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting
 
 <!--
 **vguddati/vguddati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
