@@ -2,11 +2,16 @@
 
 This is Venu Gopal , I am a graduate from University of South Florida.
 
-I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer. As a Data Analyst I used to query and manipulate data from large scale data sources using SQL. Used PowerBI to summarize the findings of my analysis,  providing actionable recommendations continously to improve the salesand to implement strategic recommendations considering brand priorities and objectives.Developed and overseen product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting.
+I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer.
 
-Partner with Inventory and stores teamsto set up and measure recommended actions
-Identify opportunities for improvement with the Inventory Management scope of operations.
-Develop and oversee product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting
+As a Data Analyst,
+I used to query and manipulate data from large scale data sources using SQL.
+
+Used PowerBI to summarize the findings of my analysis,providing actionable recommendations continously to improve the salesand to implement strategic recommendations considering brand priorities and objectives.
+
+Developed and overseen product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting.
+
+
 
 <!--
 **vguddati/vguddati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
