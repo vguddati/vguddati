@@ -4,14 +4,12 @@ This is Venu Gopal , I am a graduate from University of South Florida focused in
 
 You can look into my Data science, Big Data, Statistical Data Mining and Web development projects in my repositories, where I have done extensive research and executed the more accurate models and developed website with good responsiveness.
 
-I have worked as Data Analyst and Software Enigneer at Infosys Ltd. During my time there, I worked for one of the world's largest clothing and accessories retailer.
+I have worked around 4 years as Data Analyst and Software Enigneer at Infosys Ltd for one of the world's largest clothing and accessories retailer.
 
 As a Data Analyst,
-I used to query and manipulate data from large scale data sources using SQL.
-
-Used PowerBI to summarize the findings of my analysis,providing actionable recommendations continously to improve the salesand to implement strategic recommendations considering brand priorities and objectives.
-
-Developed and overseen product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting.
+* I used to query and manipulate data from large scale data sources using SQL.
+* Used PowerBI to summarize the findings of my analysis,providing actionable recommendations continously to improve the salesand to implement strategic recommendations   considering brand priorities and objectives.
+* Developed and overseen product and customer behavior KPI monitoring systems by developing and evolving performance measurement dashboards and reporting.
 
 
 
