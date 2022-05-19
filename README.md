@@ -2,7 +2,7 @@
 
 This is Venu Gopal , I am a graduate from University of South Florida focused in Business Analytics and Information Systems.
 
-You can look into my Data science, Big Data, Statistical Data Mining and Web development projects in my repositories, where I have done extensive research and executed the more accurate models and developed website with good responsiveness.
+Here's my portfolio of Data science, Big Data, Statistical Data Mining and Web development projects, where I have done extensive research and executed the more accurate models and developed a website with good responsiveness.
 
 I have worked around 4 years as Data Analyst and Software Enigneer at Infosys Ltd for one of the world's largest clothing and accessories retailer.
 
